@@ -30,5 +30,3 @@
 
 
 
-
-![JRMA](https://user-images.githubusercontent.com/102032531/161437605-209d6840-6954-45bf-96be-a10987bf8e5f.gif)
